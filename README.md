@@ -11,4 +11,4 @@ This is my github repository for the upcoming school projects.
 
 ## 📫 Contact Me  
 
-[![Email Fabian Tîmplaru](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fabian.timplaru@student.lab.fi)
+[![Fabian Tîmplaru](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fabian.timplaru@student.lab.fi)
