@@ -9,6 +9,4 @@ This is my github repository for the upcoming school projects.
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-## 📫 Contact Me  
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:fabian.timplaru@student.lab.fi)  
-Fabian Timplaru <fabian.timplaru@student.lab.fi>
+📫 [Fabian Timplaru](mailto:fabian.timplaru@student.lab.fi)
